@@ -1,2 +1,7 @@
-# The-Methods-Benefits-and-Problems-of-The-Interpretation-of-Data
-Published research paper
+Paper Title: The Methods, Benefits and Problems of The Interpretation of Data
+Conference: 2020 International Conference on Information Science and Communications Technologies (ICISCT)
+Conference Location: Tashkent, Uzbekistan
+
+Abstract: Data analysis and interpretation have now taken center stage with the advent of the digital age and the sheer amount of data can be frightening. In fact, a Digital Universe study found that the total data supply in 2012 was 2.8 trillion gigabytes! Based on that amount of data alone, it is clear the calling card of any successful enterprise in today's global world will be the ability to analyze complex data, produce actionable insights and adapt to new market needs all at the speed of thought. Business dashboards are the digital age tools for big data. Capable of displaying key performance indicators (KPIs) for both quantitative and qualitative data analyses, they are ideal for making the fast-paced and data-driven market decisions that push today's industry leaders to sustainable success. Through the art of streamlined visual communication, data dashboards permit businesses to engage in real-time and informed decision making, and are key instruments in data interpretation. This research article based on methods, benefits and problems of the interpretation of data.
+
+Keywords: Data analysis, Visual communication, Decision making, Tools, Information age, Real-time systems, Business.
